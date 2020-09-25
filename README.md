@@ -7,7 +7,7 @@ This windows form program is demonstrates simple access check.
 - The user with login "3" can access information of only user "3".
 
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/access_check_simple_c_sharp/master/images/1.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/access_check_simple_c_sharp/master/images/1.PNG)
 
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/access_check_simple_c_sharp/master/images/2.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/access_check_simple_c_sharp/master/images/2.PNG)
